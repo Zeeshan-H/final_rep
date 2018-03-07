@@ -9,7 +9,7 @@ using TutorsDataAccess;
 
 namespace api_postman.Controllers
 {
-        [Authorize]
+        [Authorize(Roles="tutors,students")]
 
     public class tutorsController : ApiController
     {
