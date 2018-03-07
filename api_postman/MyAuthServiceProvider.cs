@@ -21,19 +21,19 @@ namespace api_postman
         {
             var identity = new ClaimsIdentity(context.Options.AuthenticationType);
 
-            if (context.UserName == "admin" && context.Password == "admin")
+            if (context.UserName == "user" && context.Password == "user")
             {
 
-                identity.AddClaim(new Claim(ClaimTypes.Role, "admin"));
-                identity.AddClaim(new Claim("username", "admin"));
+                identity.AddClaim(new Claim(ClaimTypes.Role, "tutors"));
+                identity.AddClaim(new Claim("username", "tutors"));
                 identity.AddClaim(new Claim(ClaimTypes.Name, "Hamza Awais"));
                 context.Validated(identity);
             }
-            else if (context.UserName == "user" && context.Password == "user")
+            else if (context.UserName == "admin" && context.Password == "admin")
             {
 
-                identity.AddClaim(new Claim(ClaimTypes.Role, "user"));
-                identity.AddClaim(new Claim("username", "user"));
+                identity.AddClaim(new Claim(ClaimTypes.Role, "students"));
+                identity.AddClaim(new Claim("username", "students"));
                 identity.AddClaim(new Claim(ClaimTypes.Name, "Zeeshan Haider"));
                 context.Validated(identity);
             }
