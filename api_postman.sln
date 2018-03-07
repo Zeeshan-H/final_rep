@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api_postman", "api_postman\api_postman.csproj", "{42A66518-30FF-4D86-9EEA-3928E3F48C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorsDataAccess", "TutorsDataAccess\TutorsDataAccess.csproj", "{A896F0D9-5458-4A83-A068-9523F1CE3DF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42A66518-30FF-4D86-9EEA-3928E3F48C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A66518-30FF-4D86-9EEA-3928E3F48C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A66518-30FF-4D86-9EEA-3928E3F48C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A66518-30FF-4D86-9EEA-3928E3F48C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A896F0D9-5458-4A83-A068-9523F1CE3DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A896F0D9-5458-4A83-A068-9523F1CE3DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A896F0D9-5458-4A83-A068-9523F1CE3DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A896F0D9-5458-4A83-A068-9523F1CE3DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

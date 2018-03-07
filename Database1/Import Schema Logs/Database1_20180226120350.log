@@ -1,0 +1,78 @@
+2/26/2018 5:03:50 PM	This log contains information about the import schema operation into project 'Database1' on computer 'INS' by user 'Zeeshan Haider'.
+2/26/2018 5:03:51 PM	Import of database schema has started.
+2/26/2018 5:04:07 PM	Gathering database options
+2/26/2018 5:04:07 PM	Gathering users
+2/26/2018 5:04:07 PM	Gathering roles
+2/26/2018 5:04:07 PM	Gathering application roles
+2/26/2018 5:04:07 PM	Gathering role memberships
+2/26/2018 5:04:07 PM	Gathering filegroups
+2/26/2018 5:04:07 PM	Gathering full-text catalogs
+2/26/2018 5:04:07 PM	Gathering assemblies
+2/26/2018 5:04:07 PM	Gathering certificates
+2/26/2018 5:04:07 PM	Gathering asymmetric keys
+2/26/2018 5:04:07 PM	Gathering symmetric keys
+2/26/2018 5:04:07 PM	Gathering encrypted symmetric keys
+2/26/2018 5:04:07 PM	Gathering schemas
+2/26/2018 5:04:13 PM	Gathering XML schema collections
+2/26/2018 5:04:13 PM	Gathering user-defined data types
+2/26/2018 5:04:13 PM	Gathering user-defined types
+2/26/2018 5:04:13 PM	Gathering table types
+2/26/2018 5:04:13 PM	Gathering unique keys for table types
+2/26/2018 5:04:13 PM	Gathering primary keys for table types
+2/26/2018 5:04:13 PM	Gathering indexes for table types
+2/26/2018 5:04:13 PM	Gathering check constraints for table types
+2/26/2018 5:04:13 PM	Gathering default constraints for table types
+2/26/2018 5:04:13 PM	Gathering partition functions
+2/26/2018 5:04:13 PM	Gathering partition schemes
+2/26/2018 5:04:13 PM	Gathering functions
+2/26/2018 5:04:13 PM	Gathering encrypted functions
+2/26/2018 5:04:13 PM	Gathering aggregates
+2/26/2018 5:04:13 PM	Gathering procedures
+2/26/2018 5:04:13 PM	Gathering encrypted procedures
+2/26/2018 5:04:13 PM	Gathering tables
+2/26/2018 5:04:13 PM	Gathering primary keys
+2/26/2018 5:04:13 PM	Gathering unique constraints
+2/26/2018 5:04:13 PM	Gathering foreign keys
+2/26/2018 5:04:13 PM	Gathering default constraints
+2/26/2018 5:04:13 PM	Gathering check constraints
+2/26/2018 5:04:13 PM	Gathering views
+2/26/2018 5:04:13 PM	Gathering encrypted views
+2/26/2018 5:04:13 PM	Gathering indexes
+2/26/2018 5:04:13 PM	Gathering statistics
+2/26/2018 5:04:13 PM	Gathering full-text index stoplists
+2/26/2018 5:04:13 PM	Gathering search property lists
+2/26/2018 5:04:13 PM	Gathering search properties
+2/26/2018 5:04:13 PM	Gathering full-text indexes
+2/26/2018 5:04:13 PM	Gathering column store indexes
+2/26/2018 5:04:13 PM	Gathering spatial indexes
+2/26/2018 5:04:13 PM	Gathering XML indexes
+2/26/2018 5:04:13 PM	Gathering Selective XML indexes
+2/26/2018 5:04:13 PM	Gathering encrypted triggers
+2/26/2018 5:04:13 PM	Gathering triggers
+2/26/2018 5:04:13 PM	Gathering encrypted and clr ddl triggers
+2/26/2018 5:04:13 PM	Gathering ddl triggers
+2/26/2018 5:04:13 PM	Gathering synonyms
+2/26/2018 5:04:13 PM	Gathering defaults
+2/26/2018 5:04:13 PM	Gathering data constraint uddt bindings
+2/26/2018 5:04:13 PM	Gathering rules
+2/26/2018 5:04:14 PM	Gathering data constraint uddt bindings
+2/26/2018 5:04:14 PM	Gathering message types
+2/26/2018 5:04:14 PM	Gathering queues
+2/26/2018 5:04:14 PM	Gathering contracts
+2/26/2018 5:04:14 PM	Gathering services
+2/26/2018 5:04:14 PM	Gathering event notifications
+2/26/2018 5:04:14 PM	Gathering remote service bindings
+2/26/2018 5:04:14 PM	Gathering broker priorities
+2/26/2018 5:04:14 PM	Gathering signatures
+2/26/2018 5:04:14 PM	Gathering data compression options
+2/26/2018 5:04:14 PM	Gathering sequence types
+2/26/2018 5:04:14 PM	Gathering database permissions
+2/26/2018 5:04:14 PM	Gathering extended properties
+2/26/2018 5:04:14 PM	Gathering credentials
+2/26/2018 5:04:14 PM	Gathering logins
+2/26/2018 5:04:14 PM	Gathering server audits
+2/26/2018 5:04:16 PM	Scanning project for duplicate elements
+2/26/2018 5:04:17 PM	Finished duplicate element processing
+2/26/2018 5:04:18 PM	Finished importing database.
+2/26/2018 5:04:18 PM	A summary of the import was saved to the following location: H:\Ms Visual Studio 2013  Ultimate + Serial [danhuk]\Projects\api_postman\Database1\Import Schema Logs\Database1_20180226120350.log
+2/26/2018 5:04:18 PM	Click Finish to continue...

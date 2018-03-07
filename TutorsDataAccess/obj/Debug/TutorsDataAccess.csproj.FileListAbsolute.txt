@@ -1,0 +1,10 @@
+H:\Ms Visual Studio 2013  Ultimate + Serial [danhuk]\Projects\api_postman\TutorsDataAccess\bin\Debug\TutorsDataAccess.dll.config
+H:\Ms Visual Studio 2013  Ultimate + Serial [danhuk]\Projects\api_postman\TutorsDataAccess\bin\Debug\TutorsDataAccess.dll
+H:\Ms Visual Studio 2013  Ultimate + Serial [danhuk]\Projects\api_postman\TutorsDataAccess\bin\Debug\TutorsDataAccess.pdb
+H:\Ms Visual Studio 2013  Ultimate + Serial [danhuk]\Projects\api_postman\TutorsDataAccess\bin\Debug\EntityFramework.dll
+H:\Ms Visual Studio 2013  Ultimate + Serial [danhuk]\Projects\api_postman\TutorsDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+H:\Ms Visual Studio 2013  Ultimate + Serial [danhuk]\Projects\api_postman\TutorsDataAccess\bin\Debug\EntityFramework.xml
+H:\Ms Visual Studio 2013  Ultimate + Serial [danhuk]\Projects\api_postman\TutorsDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+H:\Ms Visual Studio 2013  Ultimate + Serial [danhuk]\Projects\api_postman\TutorsDataAccess\obj\Debug\TutorsDataAccess.csprojResolveAssemblyReference.cache
+H:\Ms Visual Studio 2013  Ultimate + Serial [danhuk]\Projects\api_postman\TutorsDataAccess\obj\Debug\TutorsDataAccess.dll
+H:\Ms Visual Studio 2013  Ultimate + Serial [danhuk]\Projects\api_postman\TutorsDataAccess\obj\Debug\TutorsDataAccess.pdb

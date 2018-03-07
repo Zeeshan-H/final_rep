@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="tutorsModelStoreContainer" CdmEntityContainer="tutorsEntities">
+    <EntitySetMapping Name="tbl_students">
+      <EntityTypeMapping TypeName="tutorsModel.tbl_students">
+        <MappingFragment StoreEntitySet="tbl_students">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="StdEmail" ColumnName="StdEmail" />
+          <ScalarProperty Name="StdFName" ColumnName="StdFName" />
+          <ScalarProperty Name="StdLName" ColumnName="StdLName" />
+          <ScalarProperty Name="StdGender" ColumnName="StdGender" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Confirm" ColumnName="Confirm" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_tutors">
+      <EntityTypeMapping TypeName="tutorsModel.tbl_tutors">
+        <MappingFragment StoreEntitySet="tbl_tutors">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="FName" ColumnName="FName" />
+          <ScalarProperty Name="LName" ColumnName="LName" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Confirm" ColumnName="Confirm" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
